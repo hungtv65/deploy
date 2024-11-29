@@ -1,6 +1,6 @@
 version: '3'
 services:
   nginx:
-    image: nginx
+    image: tranhungtv65/docker-cicd:202411291158
     ports:
       - "8080:80"
